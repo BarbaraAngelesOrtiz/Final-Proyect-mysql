@@ -121,14 +121,14 @@ To generate an automatic sale:
 ```bash
 CALL sp_venta('20210622', 15, 100);
 
-``
+```
 
 To view the generated totals:
 
 ```bash
 SELECT * FROM facturacion;
 
-` ... ```
+```
 ---
 
 # 🧠 What I Learned
@@ -143,3 +143,45 @@ This section of the course covered the following in depth:
 - Handling large volumes of simulated inserts
 - Design of complete logic:
 functions → procedures → triggers → final billing
+
+---
+
+```
+# 📂 Repository Structure/
+├── EnvironmentRecovery/
+│ ├── LoadInvoices_01.csv
+│ ├── LoadInvoices_02.csv
+│ ├── LoadInvoices_03.csv
+│ ├── LoadRecords_Tables.sql
+│ ├── Classroom_Commands_1.sql
+│ ├── Schema_Creation.sql
+│ ├── LIMIT.sql
+│ ├── Primary_Key_Problem.sql
+│ ├── Stored_Procedures_and_Triggers.sql
+│ ├── Triggers.sql
+│ ├── commands.sql
+│ ├── RAND_function.sql
+│ ├── inclusion_products.sql
+│ ├── sale.sql
+│ ├── sellers.csv
+│ └── DumpJuiceSales/
+│ ├── juices_sales_invoices.sql
+│ ├── juices_sales_items_invoices.sql
+│ ├── juices_sales_customer_table.sql
+│ ├── juices_sales_products_table.sql
+│ └── juices_sales_vendors_table.sql
+│
+├── commands.sql
+├── schema.png
+│
+└── README.md
+```
+---
+
+![Status](https://img.shields.io/badge/Status-Completed-blue)
+
+![MySQL](https://img.shields.io/badge/MySQL-4D8BBE?style=flat&logo=mysql&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+![Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
