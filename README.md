@@ -137,8 +137,9 @@ En este tramo del curso se profundizó en:
 funciones → procedimientos → triggers → facturación final
 
 ---
-```
+
 # 📂 Estructura del repositorio/
+```
 ├── RecuperacionAmbiente/
 │     ├── Carga_Facturas_01.csv
 │     ├── Carga_Facturas_02.csv
