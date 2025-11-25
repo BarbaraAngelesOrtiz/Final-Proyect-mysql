@@ -137,6 +137,7 @@ En este tramo del curso se profundizó en:
 funciones → procedimientos → triggers → facturación final
 
 ---
+```
 # 📂 Estructura del repositorio/
 ├── RecuperacionAmbiente/
 │     ├── Carga_Facturas_01.csv
@@ -165,7 +166,7 @@ funciones → procedimientos → triggers → facturación final
 ├── schema.png
 │ 
 └──  README.md      
-
+```
 --- 
 
 ![MySQL](https://img.shields.io/badge/MySQL-4D8BBE?style=flat&logo=mysql&logoColor=white)
