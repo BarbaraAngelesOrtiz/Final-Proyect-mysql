@@ -146,30 +146,30 @@ functions → procedures → triggers → final billing
 
 ---
 
-```
 # 📂 Repository Structure/
+```
 ├── EnvironmentRecovery/
-│ ├── LoadInvoices_01.csv
-│ ├── LoadInvoices_02.csv
-│ ├── LoadInvoices_03.csv
-│ ├── LoadRecords_Tables.sql
-│ ├── Classroom_Commands_1.sql
-│ ├── Schema_Creation.sql
-│ ├── LIMIT.sql
-│ ├── Primary_Key_Problem.sql
-│ ├── Stored_Procedures_and_Triggers.sql
-│ ├── Triggers.sql
-│ ├── commands.sql
-│ ├── RAND_function.sql
-│ ├── inclusion_products.sql
-│ ├── sale.sql
-│ ├── sellers.csv
-│ └── DumpJuiceSales/
-│ ├── juices_sales_invoices.sql
-│ ├── juices_sales_items_invoices.sql
-│ ├── juices_sales_customer_table.sql
-│ ├── juices_sales_products_table.sql
-│ └── juices_sales_vendors_table.sql
+│     ├── LoadInvoices_01.csv
+│     ├── LoadInvoices_02.csv
+│     ├── LoadInvoices_03.csv
+│     ├── LoadRecords_Tables.sql
+│     ├── Classroom_Commands_1.sql
+│     ├── Schema_Creation.sql
+│     ├── LIMIT.sql
+│     ├── Primary_Key_Problem.sql
+│     ├── Stored_Procedures_and_Triggers.sql
+│     ├── Triggers.sql
+│     ├── commands.sql
+│     ├── RAND_function.sql
+│     ├── inclusion_products.sql
+│     ├── sale.sql
+│     ├── sellers.csv
+│     └── DumpJuiceSales/
+│           ├── juices_sales_invoices.sql
+│           ├── juices_sales_items_invoices.sql
+│           ├── juices_sales_customer_table.sql
+│           ├── juices_sales_products_table.sql
+│           └── juices_sales_vendors_table.sql
 │
 ├── commands.sql
 ├── schema.png
