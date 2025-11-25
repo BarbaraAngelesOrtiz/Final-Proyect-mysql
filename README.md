@@ -138,14 +138,41 @@ funciones → procedimientos → triggers → facturación final
 
 ---
 # 📂 Estructura del repositorio/
-├── 01-creacion-tablas.sql
-├── 02-insercion-datos.sql
-├── 03-procedimientos-basicos.sql
-├── 04-funciones.sql
-├── 05-cursores-y-loops.sql
-├── 06-handlers-y-errores.sql
-├── 07-transacciones.sql
-└── README.md (este archivo)
+├── RecuperacionAmbiente/
+│     ├── Carga_Facturas_01.csv
+│     ├── Carga_Facturas_02.csv
+│     ├── Carga_Facturas_03.csv
+│     ├── Carga_Tablas_Registros.sql
+│     ├── Comandos_Aula_1.sql
+│     ├── Creacion_Esquema.sql
+│     ├── LIMIT.sql
+│     ├── Problema_Primary_Key.sql
+│     ├── Stored_Procedures_y_Triggers.sql
+│     ├── Triggers.sql
+│     ├── comandos.sql
+│     ├── funcion_RAND.sql
+│     ├── inclusion_productos.sql
+│     ├── venta.sql
+│     ├── vendedores.csv
+│     └── DumpJugosVentas/
+│           ├── jugos_ventas_facturas.sql
+│           ├── jugos_ventas_items_facturas.sql
+│           ├── jugos_ventas_tabla_de_clientes.sql
+│           ├── jugos_ventas_tabla_de_productos.sql
+│           └── jugos_ventas_tabla_de_vendedores.sql
+│
+├── comandos.sql
+├── schema.png
+│ 
+└──  README.md      
+
+--- 
+
+![MySQL](https://img.shields.io/badge/MySQL-4D8BBE?style=flat&logo=mysql&logoColor=white)
+![Last Commit](https://img.shields.io/github/last-commit/USER/REPO)
+![Status](https://img.shields.io/badge/Status-Completed-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 
 
