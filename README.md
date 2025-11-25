@@ -169,9 +169,14 @@ funciones → procedimientos → triggers → facturación final
 ```
 --- 
 
-![MySQL](https://img.shields.io/badge/MySQL-4D8BBE?style=flat&logo=mysql&logoColor=white)
-![Last Commit](https://img.shields.io/github/last-commit/USER/REPO)
 ![Status](https://img.shields.io/badge/Status-Completed-blue)
+
+![MySQL](https://img.shields.io/badge/MySQL-4D8BBE?style=flat&logo=mysql&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+![Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat&logo=mysql&logoColor=white)
+
 
 
 
